@@ -4,3 +4,5 @@
 
 /.vs
 /.vs/slnx.sqlite
+/backend/CVServices/CVServices/bin/Debug/net8.0
+/backend/CVServices/.vs
